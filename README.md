@@ -8,13 +8,13 @@ This document is subject to change.
 ## Things to Do
 
 - Begin Documentation
-	[X] Readme
+	- [X] Readme
 
 - Create page files
-	[ ] Home
-	[ ] About
-	[ ] Services
-	[ ] Contact
+	- [ ] Home
+	- [ ] About
+	- [ ] Services
+	- [ ] Contact
 
 - Design Base Theme
 
